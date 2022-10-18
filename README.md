@@ -1,20 +1,20 @@
 
 PROJECT NAME 
+-----------------------------------------
 
 Counter in HTML/CSS/JavaScript
------------------------------------------------------------------------
 
 DESCRIPTION
+--------------------------------------------
 
 The project is a simple counter that starting from 0 increases the value through the '' + '' and decreases it through the '' - ''
 
 TRY THE COUNTER HERE:
 https://biondokelvin.github.io/progettoCounterJavaBasics/
 
------------------------------------------------------
-
 
 AUTHORS
+--------------------------------------------------------
 
 Antony Russo
 
