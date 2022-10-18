@@ -13,7 +13,7 @@ TRY THE COUNTER HERE:
 https://biondokelvin.github.io/progettoCounterJavaBasics/
 
 
-AUTHORS
+AUTHOR
 --------------------------------------------------------
 
 Antony Russo
