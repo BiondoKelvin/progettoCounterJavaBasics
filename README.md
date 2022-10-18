@@ -1,17 +1,20 @@
 
-Project Title
+PROJECT NAME 
 
 Counter in HTML/CSS/JavaScript
+-----------------------------------------------------------------------
 
-Description
+DESCRIPTION
 
-Il progetto è un semplice counter che partendo da 0 incrementa il valore attraverso la ''+'' e lo diminuisce attraverso la ''-''
+The project is a simple counter that starting from 0 increases the value through the '' + '' and decreases it through the '' - ''
 
-PROVA IL COUNTER QUI SOTTO:
+TRY THE COUNTER HERE:
 https://biondokelvin.github.io/progettoCounterJavaBasics/
 
+-----------------------------------------------------
 
-Authors
+
+AUTHORS
 
 Antony Russo
 
